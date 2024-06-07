@@ -7,7 +7,7 @@ Software Developer
 I've been working as a fullstack developer for 10+ years. I used .NET Technologies and javascript but as hobies I'm trying to learn another languages.
 
 * 🌍  I'm based in Mugla,Turkey
-* ✉️  You can contact me at [onrkrsy@gmail.com](mailto:onrkrsy@gmail.com)
+* ✉️  You can contact me at [onkarasoy@gmail.com](mailto:onrkrsy@gmail.com)
 * 🧠  I'm learning Python, React.js,  Microservices, CQRS, Elesticsearch, RabbitMQ
 * 🤝  I'm open to collaborating on any project about movie recommendation
 
